@@ -14,3 +14,13 @@ El repositorio se crea colaborativamente entre la gente del grupo de telegram.
 
 ### Flows de gente del grupo
 * Gateway de telegram a email https://github.com/somhi/telegram2email
+
+
+## Recursos
+
+## recursos en español
+* https://programarfacil.com/blog/raspberry-pi/introduccion-node-red-raspberry-pi/
+* https://www.youtube.com/playlist?list=PLcmn4IteQPYqcZuzR7VLkQsFeAN0fPsPN
+
+## recursos en inglés
+* https://nodered.org/
